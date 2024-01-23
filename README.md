@@ -1,4 +1,4 @@
-# ML_Scholars_Assignments
+# ML Scholars Assignments
 The assignments I completed while independently following the ML Scholars Program curriculum. It consists of coding assignments from the University of Michigan's [EECS 498-007 course on Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2019/schedule.html) and a couple summaries of some basic ML papers. 
 
 ## Coding assignments (Google Colab)  
